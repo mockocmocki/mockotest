@@ -2,6 +2,6 @@
 div.fixed {
   position: fixed;
   bottom: 0;
-  right: 200;
+  right: 400;
   width: 300px;
 }
