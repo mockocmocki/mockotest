@@ -1,7 +1,7 @@
 
 div.fixed {
   position: fixed;
-  top: 150;
-  right: 200;
+  top: 40px;
+  right: 200px;
   width: 300px;
 }
