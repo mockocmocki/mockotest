@@ -13,4 +13,8 @@
 
 @keyframes mymove {
   50% {color: blue;}
+  50% {color: green;}
+  50% {color: yellow;}
+  50% {color: pink;}
+  50% {color: purple;}
 }
