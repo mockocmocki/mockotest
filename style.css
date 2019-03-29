@@ -2,7 +2,7 @@
 
 #myDIV {
   color: blue;
-  animation: mymove 2s infinite;
+  animation: mymove 4s infinite;
 }
 
 @keyframes mymove {
