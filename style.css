@@ -8,11 +8,3 @@
 @keyframes mymove {
   50% {color: green;}
 }
-
-@keyframes mymove {
-  50% {color: red;}
-}
-
-@keyframes mymove {
-  50% {color: pink;}
-}
