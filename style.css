@@ -1,10 +1,18 @@
 
 
 #myDIV {
-  color: yellow;
+  color: blue;
   animation: mymove 2s infinite;
 }
 
 @keyframes mymove {
   50% {color: green;}
+}
+
+@keyframes mymove {
+  50% {color: red;}
+}
+
+@keyframes mymove {
+  50% {color: pink;}
 }
