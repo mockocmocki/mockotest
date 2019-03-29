@@ -1,7 +1,6 @@
 
 
 #myDIV {
-  border: 1px solid black;
   width: 300px;
   color: red;
   -webkit-animation: mymove 5s infinite; /* Safari 4.0 - 8.0 */
