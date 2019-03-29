@@ -3,7 +3,7 @@
 #myDIV {
   color: red;
   -webkit-animation: mymove 5s infinite; /* Safari 4.0 - 8.0 */
-  animation: mymove 5s infinite;
+  animation: mymove 2s infinite;
 }
 
 /* Safari 4.0 - 8.0 */
