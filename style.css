@@ -18,7 +18,7 @@ body {
 
 
 
-div.centered {
+#centered {
   position: fixed;
   top: 50%;
   left: 50%;
