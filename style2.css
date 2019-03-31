@@ -1,4 +1,5 @@
 
 body {
-    background-image: url("background.jpg")
+    background-image: url("icon/background.jpg")
+	background-size: 300px 100px;
 }
