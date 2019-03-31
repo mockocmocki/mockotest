@@ -5,6 +5,7 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: 1439px 851px;
+<<<<<<< HEAD
     margin-top: 1250px;
 
 }
@@ -12,4 +13,6 @@ body {
 
 a {
 text-decoration: none;
+=======
+>>>>>>> 698727ede4f178840b804caa8eb5e3b0377baf5d
 }
