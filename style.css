@@ -1,0 +1,25 @@
+
+
+#myDIV {
+  color: blue;
+  animation: mymove 4s infinite;
+}
+
+@keyframes mymove {
+  50% {color: green;}
+}
+
+
+
+
+body {
+    background-color: #ffffcc;
+}
+
+
+
+.center {
+  display: flex;
+  justify-content: center;
+  margin-top: 300px;
+}
