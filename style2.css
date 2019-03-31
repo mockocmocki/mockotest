@@ -13,7 +13,6 @@ body {
 
 div.fixed {
   position: fixed;
-  bottom: 0;
   right: 350px;
   top: 1350px;
 }
