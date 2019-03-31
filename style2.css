@@ -4,7 +4,7 @@ body {
     background-image:url('background.jpg');
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 1439px 851px;
+    background-size: auto;
     margin-top: 1250px;
   
 }
