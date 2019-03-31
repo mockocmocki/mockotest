@@ -1,10 +1,19 @@
 
 
 body {
-    background-image:url('background.jpg');
+    background-image:url('icon/background.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: 1439px 851px;
     margin-top: 925px;
 
+}
+
+
+
+div.fixed {
+  position: fixed;
+  bottom: 0;
+  right: 350px;
+  top: 1350px;
 }
