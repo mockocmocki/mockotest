@@ -6,5 +6,10 @@ body {
     background-position: center;
     background-size: 1439px 851px;
     margin-top: 1250px;
-  
+
+}
+
+
+a {
+text-decoration: none;
 }
