@@ -6,6 +6,16 @@
 }
 
 
+.center2 {
+  display: flex;
+  justify-content: center;
+  margin-top: 300px;
+}
+
+
+
+
+
 a {
   text-decoration:none;
   color: green;
