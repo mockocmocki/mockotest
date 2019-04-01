@@ -11,8 +11,9 @@ body {
 
 
 
-div.absolute {
-  position: absolute;
-  right: 350px;
-  top: auto;
+div.relative {
+  position: relative;
+  right: 20px;
+  bottom:: 30px;
+
 }
