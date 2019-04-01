@@ -13,7 +13,7 @@ body {
 
 div.relative {
   position: relative;
-  right: 20px;
-  bottom:: 30px;
+  right: 100px;
+  top: 800px;
 
 }
