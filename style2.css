@@ -14,5 +14,5 @@ body {
 div.absolute {
   position: absolute;
   right: 350px;
-  top: 850px;
+  top: auto;
 }
