@@ -11,8 +11,8 @@ body {
 
 
 
-div.relative {
+div.abstract {
   position: relative;
-  left: 255px;
-  bottom: 805px;
+  margin-left: 255px;
+  margin-bottom: 805px;
 }
