@@ -14,5 +14,5 @@ body {
 div.relative {
   position: relative;
   margin-left: 255px;
-  margin-bottom: 805px;
+  bottom: 805px;
 }
